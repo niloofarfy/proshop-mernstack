@@ -15,7 +15,6 @@ function App() {
   <Header/>
   <main >
     <Container>
-      {/* <ContactScreen/> */}
       <HomeScreen/>
     </Container>
      
