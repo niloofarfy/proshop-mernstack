@@ -27,7 +27,7 @@ const Header = () => {
         <Button variant="outline-light">جستجو</Button>
       </Form>
       
-      <Navbar.Brand className="ms-auto" href="#">Contact Manager</Navbar.Brand>
+      <Navbar.Brand className="ms-auto" href="#">Proshop</Navbar.Brand>
 
     </Navbar.Collapse>
   </Container>
